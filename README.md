@@ -1,0 +1,2 @@
+# Termux-lock
+🔐 lock termux
